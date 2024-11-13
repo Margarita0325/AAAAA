@@ -1,0 +1,27 @@
+<html>
+    <title>AAAAA</title>
+    <body style="font-family:sans-serif">
+        <header>
+        <img src="https://avatars.mds.yandex.net/i?id=d2bab94674be3fc94c335f54179b4d1921fb4dab-10576628-images-thumbs&n=13" height="60" >"AAAAA"
+        </header>
+        <main>
+        <h1 style="text-align:center;background-color:LightBlue">Парк атракционов "ААААА"<br/>
+        <img src="https://avatars.mds.yandex.net/i?id=fc17933b43b8ce5a7668befbcfdc97b12b53d816-5282589-images-thumbs&n=13"></h1>
+        <h1 style="color">О парке</h1>
+        <p style="background-color:Lavender">Наш парк атракционов "ААААА" был основан в 2024 году. Почему такое странное название? У нас в парке много высоких, быстрых, весёлых и завораживающих горок! Здесь вы точно не заскучаете! Кроме горок у нас есть: карусели, большие качели в виде пиратского корабля, лабиринт, квесты, колесо обозрения, кафе и многое другое!</p>
+        <p>
+        <h1>Наши атракционы</h1>
+        <img src="https://avatars.mds.yandex.net/i?id=cf59b51eda0c2186e915e2f595a2058e38313724-5305607-images-thumbs&n=13" height="150"> Карусели 5 мин - 100руб
+        <img src="https://avatars.mds.yandex.net/i?id=23c7c5d79e9ea2c80bb57cb92f9945dfe831bce1-9182312-images-thumbs&n=13" height="150"> Колесо обозрения 10 мин - 100руб
+        <img src="https://avatars.mds.yandex.net/i?id=713cf59c27e649243e53c5658bf734a59fd1a8eb-12320521-images-thumbs&n=13" height="150"> Детский батут 15 мин - 150руб
+        <img src="https://avatars.mds.yandex.net/i?id=68f69b9845f993c5df16f03fac87a182d80b7423-5192579-images-thumbs&n=13" height="150">
+        Американские горки 15 мин - 250руб
+        <img src="https://avatars.mds.yandex.net/i?id=ecb532c3dc287bd421d34bd4772e240bdc0121c7-4230485-images-thumbs&n=13" height="150">
+        Кафе
+        </p>
+        </main>
+        <footer style="background:LemonChiffon">
+        <p>Адрес: улица - Пушкина;<br/> номер телефона: +7 987 654 32 10</p>
+        </footer>
+    </body>
+</html>
